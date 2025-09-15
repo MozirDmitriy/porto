@@ -1,5 +1,11 @@
 # porto
 
+## 0.2.6
+
+### Patch Changes
+
+- [`1387137`](https://github.com/ithacaxyz/porto/commit/13871375228e18640202e659f073786be09966c3) Thanks [@jxom](https://github.com/jxom)! - Disabled merchant hostname check for testnets.
+
 ## 0.2.5
 
 ### Patch Changes
